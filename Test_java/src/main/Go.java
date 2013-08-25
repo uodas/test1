@@ -9,6 +9,7 @@ public class Go {
 	
 	public static void moreMessages(){
 		System.out.print("second message");
+		System.out.print("not this is for branched projet");
 	}
 }
 
