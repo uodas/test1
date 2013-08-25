@@ -14,6 +14,7 @@ public class Go {
 		//
 		//this is something new
 		// bandom dar karta
+		// nmiu
 	}
 }
 
