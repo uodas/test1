@@ -12,6 +12,7 @@ public class Go {
 		System.out.print("not this is for branched projet");
 		// some changes to test the rebase whatever it is
 		//
+		//this is something new
 	}
 }
 
